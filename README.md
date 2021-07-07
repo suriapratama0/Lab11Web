@@ -1,4 +1,4 @@
-# Pratikum 11,12,13: PHP Framework (Codeigniter)
+# Pratikum 11,12,13,14: PHP Framework (Codeigniter)
 <h2> PERSIAPAN </h2>
 <p> 1. Gunakan text editor, saya menggunakan sublime. </p>
 <p> 2. Menggunakan Xampp </p>
@@ -304,4 +304,49 @@ Secara default fitur ini belum aktif. Ketika terjadi error pada aplikasi akan di
 <p> Fungsi logout </p>
 
 ![](Screenshot/211.jpg)
-# Lab11Web
+
+# Pratikum 14
+<p> Membuat pagination Controller/Artikel. admin_index </p>
+
+![](Screenshot/300.jpg)
+
+<p> Menambahkan kode views/artikel/admin_index </p>
+
+![](Screenshot/301.jpg)
+
+<p> Output page </p>
+
+![](Screenshot/302.jpg)
+
+<p> Membuat pencaharian Controller/Artikel. admin_index </p>
+
+![](Screenshot/303_1.jpg)
+
+<p> Menambahkan form pencaharian  views/artikel/admin_index.php  </p>
+
+![](Screenshot/303_2.jpg)
+
+<p> Mengubah link pagenya </p>
+
+![](Screenshot/303_3.jpg)
+
+<p> Hasil output </p>
+
+![](Screenshot/303_4.jpg)
+
+<p> Menambahkan fungsi unggah gambar Controller/Artikel. method add </p>
+
+![](Screenshot/303.jpg)
+
+<p> Menambahkan field input views/artikel/form_add.php </p>
+
+![](Screenshot/304.jpg)
+
+<p> Menambahkan encrypt type </p>
+
+![](Screenshot/305.jpg)
+
+<p> Hasil output </p>
+
+![](Screenshot/306.jpg)
+
