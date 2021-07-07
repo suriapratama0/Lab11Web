@@ -1,0 +1,114 @@
+CRITICAL - 2021-06-15 06:03:20 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:08:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\spark(45): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:10:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\spark(45): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:12:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:12:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:15:12 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:20:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 06:27:08 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 08:08:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(222): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(178): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-15 01:21:21 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(253): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(231): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(838): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\lab11_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-06-15 01:21:59 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(253): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(231): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(838): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\lab11_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-06-15 01:30:09 --> syntax error, unexpected 'class' (T_CLASS), expecting '{'
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(253): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(231): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(838): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\lab11_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-06-15 01:31:48 --> syntax error, unexpected 'class' (T_CLASS), expecting '{'
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(253): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\Autoloader\Autoloader.php(231): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(838): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\lab11_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-06-15 01:53:51 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\Router\Router.php(167): CodeIgniter\Router\Router->autoRoute('page/tos')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(765): CodeIgniter\Router\Router->handle('page/tos')
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(375): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\lab11_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-06-15 01:53:55 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\lab11_ci\ci4\system\Router\Router.php(167): CodeIgniter\Router\Router->autoRoute('page/tos')
+#1 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(765): CodeIgniter\Router\Router->handle('page/tos')
+#2 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(375): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_ci\ci4\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\lab11_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
